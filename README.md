@@ -33,5 +33,5 @@
 - [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)，网站主页很好的美工
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 感谢以下同学们对本项目的贡献与支持！
-- 2020级姜泓旭
+- 2020级姜泓旭、邓慧聪
 - 2021级大四上秋季访学的同学们
